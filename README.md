@@ -1,4 +1,8 @@
+
+
 # FoodFlow: AI-based Sales Prediction System  
+
+![{0D526B9A-3948-4AC3-A099-1A1F0F29222E}](https://github.com/user-attachments/assets/1345cc20-6288-44fb-baeb-28d661073e62)
 
 **FoodFlow** is a web application designed to monitor food waste and provide sales predictions using AI. The application is built with a **React** frontend (using Vite) and a **Flask** backend. It helps businesses manage food inventory more efficiently by predicting sales and minimizing waste.
 
