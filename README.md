@@ -6,6 +6,9 @@
 
 **FoodFlow** is a web application designed to monitor food waste and provide sales predictions using AI. The application is built with a **React** frontend (using Vite) and a **Flask** backend. It helps businesses manage food inventory more efficiently by predicting sales and minimizing waste.
 
+![{B4BDA84C-EF27-4B5D-8F1F-E61423E2D883}](https://github.com/user-attachments/assets/650e2ef5-cd0c-4166-906e-2e2c7e4af88c)
+
+
 ## Features
 
 - **Food Waste Monitoring**: Track food waste in real-time.
